@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d8ef037-da96-4c24-a896-1b5d27c731da" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/pageObjects/Railway/MyTicketPage.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/testcases/Railway/MyTicketTest.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ohyVnRG0pS2U3GhBQ0n38IkzCN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.BookTicketTest.TC14.executor": "Run",
+    "TestNG.BookTicketTest.executor": "Run",
+    "TestNG.C:/Users/LE THI THUY DUYEN/Downloads/Practice_Testing_basic_main_edited (1)/Practice_Testing_basic_main_edited/SuiteRunAllTest.xml.executor": "Run",
+    "TestNG.ChangePassWordTest.TC9.executor": "Run",
+    "TestNG.ChangePassWordTest.executor": "Run",
+    "TestNG.D:/Practice_Testing_basic_main/SuiteRunAllTest.xml.executor": "Run",
+    "TestNG.ForgotPassWordTest.TC12.executor": "Run",
+    "TestNG.ForgotPassWordTest.TC13.executor": "Run",
+    "TestNG.ForgotPassWordTest.executor": "Run",
+    "TestNG.LoginTest.TC1.executor": "Run",
+    "TestNG.LoginTest.TC2.executor": "Run",
+    "TestNG.LoginTest.TC3.executor": "Run",
+    "TestNG.LoginTest.TC4.executor": "Run",
+    "TestNG.LoginTest.TC5.executor": "Run",
+    "TestNG.LoginTest.TC6.executor": "Run",
+    "TestNG.LoginTest.TC8.executor": "Run",
+    "TestNG.MyTicketTest.TC16.executor": "Run",
+    "TestNG.RegisterTest.TC10.executor": "Run",
+    "TestNG.RegisterTest.TC11.executor": "Run",
+    "TestNG.RegisterTest.TC7.executor": "Run",
+    "TestNG.TimeTableTest.TC15.executor": "Run",
+    "TestNG.TimeTableTest.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.ForgotPassWordTest">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Practice_Testing_basic_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Practice_Testing_basic_main" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookTicketTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="new_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.Railway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases.Railway" />
+      <option name="MAIN_CLASS_NAME" value="testcases.Railway.BookTicketTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForgotPassWordTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="new_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.Railway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases.Railway" />
+      <option name="MAIN_CLASS_NAME" value="testcases.Railway.ForgotPassWordTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForgotPassWordTest.TC12" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="new_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.Railway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases.Railway" />
+      <option name="MAIN_CLASS_NAME" value="testcases.Railway.ForgotPassWordTest" />
+      <option name="METHOD_NAME" value="TC12" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest.TC11" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="new_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.Railway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases.Railway" />
+      <option name="MAIN_CLASS_NAME" value="testcases.Railway.RegisterTest" />
+      <option name="METHOD_NAME" value="TC11" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeTableTest.TC15" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="new_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.Railway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases.Railway" />
+      <option name="MAIN_CLASS_NAME" value="testcases.Railway.TimeTableTest" />
+      <option name="METHOD_NAME" value="TC15" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ForgotPassWordTest" />
+        <item itemvalue="TestNG.ForgotPassWordTest.TC12" />
+        <item itemvalue="TestNG.BookTicketTest" />
+        <item itemvalue="TestNG.TimeTableTest.TC15" />
+        <item itemvalue="TestNG.RegisterTest.TC11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d8ef037-da96-4c24-a896-1b5d27c731da" name="Changes" comment="" />
+      <created>1731336127281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731336127281</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testcases/Railway/ForgotPassWordTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
